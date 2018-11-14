@@ -109,6 +109,7 @@ Designing your Own Brushes & Drawing Program
 
 ### Build 07 - Challenge - Custom Animated Brush
 
-### Build 07 - Bonus - Objects, Particles, Particle Systems
-### Build 08 - Bonus - Vectors
-### Build 09 - Bonus - Changing Scenes
+### Build 07 - Bonus - Coloring from an Image
+### Build 08 - Bonus - Objects, Particles, Particle Systems
+### Build 09 - Bonus - Vectors
+### Build 10 - Bonus - Changing Scenes
