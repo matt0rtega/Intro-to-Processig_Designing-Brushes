@@ -91,7 +91,12 @@ Designing your Own Brushes & Drawing Program
 ### Build 04-02 - Translation Brush
 1. Combining with our previous program
 
-### Build 05 - Challenge - Create your own Custom Brush
+### Build 05 - Challenge - Inspiration, Create your own Custom Brush
+1. Artists and Algorithms
+- Frieder Nake
+- Vera Molnar
+- Sol Lewitt
+- John Whitney
 
 ### Build 06-01 - Animation, Sin, and Cos
 1. Basic increments
