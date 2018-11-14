@@ -93,10 +93,10 @@ Designing your Own Brushes & Drawing Program
 
 ### Build 05 - Challenge - Inspiration, Create your own Custom Brush
 1. Artists and Algorithms
-- Frieder Nake
-- Vera Molnar
-- Sol Lewitt
-- John Whitney
+- [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
+- [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Molnár)
+- [Sol Lewitt](https://en.wikipedia.org/wiki/Sol_LeWitt)
+- [John Whitney](https://en.wikipedia.org/wiki/John_Whitney_(animator))
 
 ### Build 06-01 - Animation, Sin, and Cos
 1. Basic increments
@@ -106,7 +106,7 @@ Designing your Own Brushes & Drawing Program
 
 ### Build 06-02 - Lissajou Figures
 1. Playing with Sin ratios
-2. https://en.wikipedia.org/wiki/Lissajous_curve
+2. [Lissajou Figures](https://en.wikipedia.org/wiki/Lissajous_curve)
 3. Adding interaction, tweaking
 4. 
 ### Build 06-03 - Sin Brush
