@@ -71,7 +71,6 @@ Designing your Own Brushes & Drawing Program
 5. Randomness
 6. Form & Code - Repeat, Transform, Parameterize, Visualize, Simulate, Randomness
 
-
 ### Build 02-01 - Break out into Functions to stay organized
 
 ### Build 03 - Colors - Arrays and Modulo
@@ -108,7 +107,7 @@ Designing your Own Brushes & Drawing Program
 1. Playing with Sin ratios
 2. [Lissajou Figures](https://en.wikipedia.org/wiki/Lissajous_curve)
 3. Adding interaction, tweaking
-4. 
+
 ### Build 06-03 - Sin Brush
 1. Combining with our program
 
