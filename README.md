@@ -23,19 +23,11 @@ Designing your Own Brushes & Drawing Program
 - Designing the tool is really working at the most granular level of art making, which is starting with the material itself
 
 **What I currently do?**
-<<<<<<< HEAD
     - matthewortega.studio
     - instagram.com/timesareweird
 
 **How to approach learning to code?**
     - I found it easier to learn how to code when it was through something that I was interested. Alot of the current approaches out there just try to teach you generalized coding, but without an overall project in mind application, it quickly gets to what the hell I am using this for.
-=======
-	- matthewortega.studio
-	- instagram.com/timesareweird
-
-**How to approach learning to code?**
-	- I found it easier to learn how to code when it was through something that I was interested. Alot of the current approaches out there just try to teach you generalized coding, but without an overall project in mind application, it quickly gets to what the hell I am using this for.
->>>>>>> bc0a2046abbf9b3788b75544fcf68cb5f02f6f1f
 
 ### Requirements:
 - Processing - Processing.org
@@ -56,7 +48,6 @@ Designing your Own Brushes & Drawing Program
 
 ### Build 1 - IDE, Shapes and Colors
 - What is the difference between Processing and other software?
-<<<<<<< HEAD
     - Basically processing is a library packaged into an IDE (Integrated development environment), this thing
 - It gives artists an easier way to learn how to code and to get to your creative practice faster, so compared to having to build a circle from nothing everytime, which after using other languages I realize you sometimes have to do. It gives us some easy to use items.
 - Here we are looking at a few basic shapes that we can begin working with to:
@@ -65,16 +56,6 @@ Designing your Own Brushes & Drawing Program
     - Ellipse
     - Point
     - Image Texture
-=======
-	- Basically processing is a library packaged into an IDE (Integrated development environment), this thing
-- It gives artists an easier way to learn how to code and to get to your creative practice faster, so compared to having to build a circle from nothing everytime, which after using other languages I realize you sometimes have to do. It gives us some easy to use items.
-- Here we are looking at a few basic shapes that we can begin working with to:
-	- Line
-	- Rect
-	- Ellipse
-	- Point
-	- Image Texture
->>>>>>> bc0a2046abbf9b3788b75544fcf68cb5f02f6f1f
 
 ### Build 1 - Variables & Functions
 - Storing information
@@ -130,8 +111,4 @@ Designing your Own Brushes & Drawing Program
 
 ### Build 07 - Bonus - Objects, Particles, Particle Systems
 ### Build 08 - Bonus - Vectors
-<<<<<<< HEAD
 ### Build 09 - Bonus - Changing Scenes
-=======
-### Build 09 - Bonus - Changing Scenes
->>>>>>> bc0a2046abbf9b3788b75544fcf68cb5f02f6f1f
