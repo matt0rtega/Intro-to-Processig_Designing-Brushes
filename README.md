@@ -112,6 +112,7 @@ Designing your Own Brushes & Drawing Program
 1. Combining with our program
 
 ### Build 07 - Challenge - Custom Animated Brush
+- Send me your artwork. Would love to have student work ;)
 
 ### Build 07 - Bonus - Coloring from an Image
 ### Build 08 - Bonus - Objects, Particles, Particle Systems
