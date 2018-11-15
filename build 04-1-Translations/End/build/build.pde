@@ -1,3 +1,6 @@
+// Build 04 - Translations
+
+
 float rot = 0;
 
 void setup(){
@@ -27,21 +30,3 @@ void draw(){
 
   rot += 0.01;
 }
-
-
-
-
-// Start
-
-// void setup(){
-//   // I run once
-//   println("Run once");
-  
-//   size(500, 500);
-//   background(0);
-// }
-
-// void draw(){
-//   // I run continuously
-//   println("Run again and again");
-// }

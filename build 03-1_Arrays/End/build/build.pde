@@ -1,4 +1,4 @@
-// Build 03 - Organized into Functions
+// Build 03 - Arrays
 
 // This is array - Understanding variables
 color[] colors = {#76C3AF, #FFD9DA, #1B1464};

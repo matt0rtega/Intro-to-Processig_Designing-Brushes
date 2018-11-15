@@ -1,3 +1,4 @@
+// Build 03-2 - Arrays - With Colors from Color Picker
 
 // This is array - Understanding variables
 color[] colors = {#76C3AF, #FFD9DA, #1B1464};
